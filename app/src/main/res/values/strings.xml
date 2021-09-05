@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora Gorjeta</string>
+    <string name="DigiteValor">Digite um valor ex: 36.50</string>
+    <string name="percent">0%</string>
+    <string name="Gorjeta">Gorjeta</string>
+    <string name="Total">Total</string>
+    <string name="Reais">R$</string>
+</resources>
